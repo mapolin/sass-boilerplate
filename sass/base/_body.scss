@@ -1,0 +1,6 @@
+body {
+    @include gradient-horizontal();
+}
+
+@include fluid-grid();
+@include flex-grid();
